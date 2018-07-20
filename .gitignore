@@ -1,0 +1,9 @@
+# Compiled source #
+###################
+*.idea
+
+
+# IDE files #
+#############
+*.xml
+*.iml
