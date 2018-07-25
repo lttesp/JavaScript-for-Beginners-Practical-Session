@@ -1,0 +1,31 @@
+#number1, #number2{
+    font-size : 45px;
+    font-weight: bold;
+    border:5px red;
+    padding: 50px;
+}
+#symbol{
+    font-size: 45px;
+    font-weight: bold;
+}
+
+body{
+    background-color: cornsilk;
+}
+
+#wrapper{
+    width: 750px;
+    height: 350px;
+    background-color: beige;
+    margin-top: 120px;
+    margin-left: 220px;
+}
+
+#btn{
+    background-color: red;
+    color:#fff;
+    padding:12px;
+    border-style: none;
+    font-weight: bold;
+    width: 100px;
+}
